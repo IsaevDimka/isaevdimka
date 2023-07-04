@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- ⚡ isaevdimka.com
-- 🤔 coinwith.me
+- [⚡ isaevdimka.com](https://isaevdimka.com)
+- [🤔 coinwith.me](https://coinwith.me)
 <!--
 **IsaevDimka/isaevdimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
